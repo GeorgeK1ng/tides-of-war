@@ -23,9 +23,15 @@
 					"zoneLimit" : 1,
 					"mapLimit" : 4
 				},
-				"levels" : [
+				"guardsLayout" : "creatureBankNarrow",
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"rewards" : [
 					{
-						"chance" : 20,
+						"message" : "Upon defeating the Guardians of the Sorceress Castle, you sift through the debris and find something.",
+						"appearChance" : { "min" : 0, "max" : 20 },
 						"guards" : [
 							{ "amount" : 32, "type" : "pixie", "upgradeChance" : 50 },
 							{ "amount" : 16, "type" : "dwarf", "upgradeChance" : 50 },
@@ -34,15 +40,12 @@
 							{ "amount" : 2, "type" : "unicorn", "upgradeChance" : 50 },
 							{ "amount" : 1, "type" : "firebird", "upgradeChance" : 50 }
 						],
-						"combat_value" : 500,
-						"reward" : {
-							"value" : 1000,
-							"resources" : { "gold" : 3000, "wood" : 5 },
-							"artifacts" : [ "inexhaustibleCartOfOre", "legsOfLegion" ]
-						}
+						"resources" : { "gold" : 3000, "wood" : 5 },
+						"artifacts" : [ "inexhaustibleCartOfOre", "legsOfLegion" ]
 					},
 					{
-						"chance" : 20,
+						"message" : "Upon defeating the Guardians of the Sorceress Castle, you sift through the debris and find something.",
+						"appearChance" : { "min" : 20, "max" : 40 },
 						"guards" : [
 							{ "amount" : 64, "type" : "pixie", "upgradeChance" : 50 },
 							{ "amount" : 32, "type" : "dwarf", "upgradeChance" : 50 },
@@ -51,15 +54,12 @@
 							{ "amount" : 4, "type" : "unicorn", "upgradeChance" : 50 },
 							{ "amount" : 2, "type" : "firebird", "upgradeChance" : 50 }
 						],
-						"combat_value" : 500,
-						"reward" : {
-							"value" : 2000,
-							"resources" : { "gold" : 6000, "ore" : 5 },
-							"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "loinsOfLegion" ]
-						}
+						"resources" : { "gold" : 6000, "ore" : 5 },
+						"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "loinsOfLegion" ]
 					},
 					{
-						"chance" : 20,
+						"message" : "Upon defeating the Guardians of the Sorceress Castle, you sift through the debris and find something.",
+						"appearChance" : { "min" : 40, "max" : 60 },
 						"guards" : [
 							{ "amount" : 128, "type" : "pixie", "upgradeChance" : 60 },
 							{ "amount" : 64, "type" : "dwarf", "upgradeChance" : 60 },
@@ -68,16 +68,13 @@
 							{ "amount" : 8, "type" : "unicorn", "upgradeChance" : 50 },
 							{ "amount" : 4, "type" : "firebird", "upgradeChance" : 50 }
 						],
-						"combat_value" : 1000,
-						"reward" : {
-							"value" : 4000,
-							"resources" : { "gold" : 8000, "ore" : 5, "wood" : 5 },
-							"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "eversmokingRingOfSulfur", "torsoOfLegion" ],
-							"spells" : [ { "level" : 2 } ]
-						}
+						"resources" : { "gold" : 8000, "ore" : 5, "wood" : 5 },
+						"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "eversmokingRingOfSulfur", "torsoOfLegion" ],
+						"spells" : [ { "level" : 2 } ]
 					},
 					{
-						"chance" : 20,
+						"message" : "Upon defeating the Guardians of the Sorceress Castle, you sift through the debris and find something.",
+						"appearChance" : { "min" : 60, "max" : 80 },
 						"guards" : [
 							{ "amount" : 192, "type" : "pixie", "upgradeChance" : 70 },
 							{ "amount" : 96, "type" : "dwarf", "upgradeChance" : 70 },
@@ -86,16 +83,13 @@
 							{ "amount" : 12, "type" : "unicorn", "upgradeChance" : 60 },
 							{ "amount" : 6, "type" : "firebird", "upgradeChance" : 60 }
 						],
-						"combat_value" : 4000,
-						"reward" : {
-							"value" : 8000,
-							"resources" : { "gold" : 10000, "ore" : 10, "wood" : 10 },
-							"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "eversmokingRingOfSulfur", "ringOfInfiniteGems", "armsOfLegion" ],
-							"spells" : [ { "level" : 3 } ]
-						}
+						"resources" : { "gold" : 10000, "ore" : 10, "wood" : 10 },
+						"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "eversmokingRingOfSulfur", "ringOfInfiniteGems", "armsOfLegion" ],
+						"spells" : [ { "level" : 3 } ]
 					},
 					{
-						"chance" : 15,
+						"message" : "Upon defeating the Guardians of the Sorceress Castle, you sift through the debris and find something.",
+						"appearChance" : { "min" : 85, "max" : 95 },
 						"guards" : [
 							{ "amount" : 256, "type" : "pixie", "upgradeChance" : 70 },
 							{ "amount" : 160, "type" : "dwarf", "upgradeChance" : 70 },
@@ -104,16 +98,13 @@
 							{ "amount" : 16, "type" : "unicorn", "upgradeChance" : 70 },
 							{ "amount" : 8, "type" : "firebird", "upgradeChance" : 70 }
 						],
-						"combat_value" : 6000,
-						"reward" : {
-							"value" : 10000,
-							"resources" : { "gold" : 10000, "gems" : 10, "sulfur" : 10 },
-							"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "eversmokingRingOfSulfur", "ringOfInfiniteGems", "everpouringVialOfMercury", "headOfLegion" ],
-							"spells" : [ { "level" : 4 } ]
-						}
+						"resources" : { "gold" : 10000, "gems" : 10, "sulfur" : 10 },
+						"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "eversmokingRingOfSulfur", "ringOfInfiniteGems", "everpouringVialOfMercury", "headOfLegion" ],
+						"spells" : [ { "level" : 4 } ]
 					},
 					{
-						"chance" : 5,
+						"message" : "Upon defeating the Guardians of the Sorceress Castle, you sift through the debris and find something.",
+						"appearChance" : { "min" : 95, "max" : 100 },
 						"guards" : [
 							{ "amount" : 384, "type" : "pixie", "upgradeChance" : 80 },
 							{ "amount" : 224, "type" : "dwarf", "upgradeChance" : 80 },
@@ -122,13 +113,9 @@
 							{ "amount" : 32, "type" : "unicorn", "upgradeChance" : 80 },
 							{ "amount" : 10, "type" : "firebird", "upgradeChance" : 80 }
 						],
-						"combat_value" : 8000,
-						"reward" : {
-							"value" : 15000,
-							"resources" : { "gold" : 12000, "mercury" : 12, "crystals" : 12 },
-							"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "cornucopia", "statueOfLegion" ],
-							"spells" : [ { "level" : 5 } ]
-						}
+						"resources" : { "gold" : 12000, "mercury" : 12, "crystals" : 12 },
+						"artifacts" : [ "inexhaustibleCartOfOre", "inexhaustibleCartOfLumber", "cornucopia", "statueOfLegion" ],
+						"spells" : [ { "level" : 5 } ]
 					}
 				]
 			}

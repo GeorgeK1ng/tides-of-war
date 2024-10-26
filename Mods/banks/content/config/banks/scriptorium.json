@@ -23,10 +23,16 @@
 					"rarity" : 100,
 					"zoneLimit" : 1
 				},
-				"levels" :
+				"guardsLayout" : "creatureBankNarrow",
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"rewards" :
 				[
 					{
-						"chance" : 30,
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards" : [
 							{ "amount" : 10, "type" : "monk" },
 							{ "amount" : 10, "type" : "monk" },
@@ -34,19 +40,16 @@
 							{ "amount" : 10, "type" : "monk" },
 							{ "amount" : 10, "type" : "monk" }
 						],
-						"combat_value" : 3000,
-						"reward" : {
-							"value" : 4000,
-							"resources" :
-							{
-								"gold" : 2500,
-								"gems" : 1
-							},
-							"spells" : [ { "level" : 1 } ]
-						}
+						"resources" :
+						{
+							"gold" : 2500,
+							"gems" : 1
+						},
+						"spells" : [ { "level" : 1 } ]
 					},
 					{
-						"chance" : 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards" : [
 							{ "amount" : 15, "type" : "monk" },
 							{ "amount" : 15, "type" : "monk" },
@@ -54,21 +57,18 @@
 							{ "amount" : 15, "type" : "monk" },
 							{ "amount" : 15, "type" : "monk" }
 						],
-						"combat_value" : 3000,
-						"reward" : {
-							"value" : 4000,
-							"resources" : 
-							{
-								"gold" : 3250,
-								"gems" : 2,
-								"crystal" : 2
-							},
-							"spells" : [ { "level" : 1 } ],
-							"artifacts" : [ { "class" : "MINOR" } ]
-						}
+						"resources" : 
+						{
+							"gold" : 3250,
+							"gems" : 2,
+							"crystal" : 2
+						},
+						"spells" : [ { "level" : 1 } ],
+						"artifacts" : [ { "class" : "MINOR" } ]
 					},
 					{
-						"chance" : 30,
+						"message" : 34,
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards" : [
 							{ "amount" : 20, "type" : "monk" },
 							{ "amount" : 20, "type" : "monk" },
@@ -76,22 +76,19 @@
 							{ "amount" : 20, "type" : "monk" },
 							{ "amount" : 20, "type" : "monk" }
 						],
-						"combat_value" : 3000,
-						"reward" : {
-							"value" : 4000,
-							"resources" :
-							{
-								"gold" : 4000,
-								"gems" : 3,
-								"crystal" : 3,
-								"sulfur" : 3
-							},
-							"spells" : [ { "level" : 2 } ],
-							"artifacts" : [ { "class" : "MINOR" } ]
-						}
+						"resources" :
+						{
+							"gold" : 4000,
+							"gems" : 3,
+							"crystal" : 3,
+							"sulfur" : 3
+						},
+						"spells" : [ { "level" : 2 } ],
+						"artifacts" : [ { "class" : "MINOR" } ]
 					},
 					{
-						"chance" : 10,
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards" : [
 							{ "amount" : 30, "type" : "monk" },
 							{ "amount" : 30, "type" : "monk" },
@@ -99,20 +96,16 @@
 							{ "amount" : 30, "type" : "monk" },
 							{ "amount" : 30, "type" : "monk" }
 						],
-						"combat_value" : 3000,
-						"reward" : {
-							"value" : 4000,
-							"resources" :
-							{
-								"gold" : 5500,
-								"gems" : 4,
-								"crystal" : 4,
-								"sulfur" : 4,
-								"mercury" : 4
-							},
-							"spells" : [ { "level" : 2 } ],
-							"artifacts" : [ { "class" : "TREASURE" }, { "class" : "MAJOR" } ]
-						}
+						"resources" :
+						{
+							"gold" : 5500,
+							"gems" : 4,
+							"crystal" : 4,
+							"sulfur" : 4,
+							"mercury" : 4
+						},
+						"spells" : [ { "level" : 2 } ],
+						"artifacts" : [ { "class" : "TREASURE" }, { "class" : "MAJOR" } ]
 					}
 				]
 			}

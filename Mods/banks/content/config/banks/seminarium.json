@@ -23,10 +23,16 @@
 					"rarity" : 80,
 					"zoneLimit" : 1
 				},
-				"levels" :
+				"guardsLayout" : "creatureBankNarrow",
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"rewards" :
 				[
 					{
-						"chance" : 30,
+						"message" : "With the Swordsmen defeated, Templars step forward, pledging their strength to your ranks.",
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards" : [
 							{ "amount" : 10, "type" : "swordsman" },
 							{ "amount" : 10, "type" : "swordsman" },
@@ -34,14 +40,11 @@
 							{ "amount" : 10, "type" : "swordsman" },
 							{ "amount" : 10, "type" : "swordsman" }
 						],
-						"combat_value" : 351,
-						"reward" : {
-							"value" : 3000,
-							"creatures" : [ { "amount" : 2, "type" : "mdtTemplar" } ]
-						}
+						"creatures" : [ { "amount" : 2, "type" : "mdtTemplar" } ]
 					},
 					{
-						"chance" : 30,
+						"message" : "With the Swordsmen defeated, Templars step forward, pledging their strength to your ranks.",
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards" : [
 							{ "amount" : 20, "type" : "swordsman" },
 							{ "amount" : 20, "type" : "swordsman" },
@@ -49,14 +52,11 @@
 							{ "amount" : 20, "type" : "swordsman" },
 							{ "amount" : 20, "type" : "swordsman" }
 						],
-						"combat_value" : 702,
-						"reward" : {
-							"value" : 6000,
-							"creatures" : [ { "amount" : 3, "type" : "mdtTemplar" } ]
-						}
+						"creatures" : [ { "amount" : 3, "type" : "mdtTemplar" } ]
 					},
 					{
-						"chance" : 30,
+						"message" : "With the Swordsmen defeated, Templars step forward, pledging their strength to your ranks.",
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards" : [
 							{ "amount" : 30, "type" : "swordsman" },
 							{ "amount" : 30, "type" : "swordsman" },
@@ -64,14 +64,11 @@
 							{ "amount" : 30, "type" : "swordsman" },
 							{ "amount" : 30, "type" : "swordsman" }
 						],
-						"combat_value" : 1053,
-						"reward" : {
-							"value" : 9000,
-							"creatures" : [ { "amount" : 4, "type" : "mdtTemplar" } ]
-						}
+						"creatures" : [ { "amount" : 4, "type" : "mdtTemplar" } ]
 					},
 					{
-						"chance" : 10,
+						"message" : "With the Swordsmen defeated, Templars step forward, pledging their strength to your ranks.",
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards" : [
 							{ "amount" : 40, "type" : "swordsman" },
 							{ "amount" : 40, "type" : "swordsman" },
@@ -79,11 +76,7 @@
 							{ "amount" : 40, "type" : "swordsman" },
 							{ "amount" : 40, "type" : "swordsman" }
 						],
-						"combat_value" : 1404,
-						"reward" : {
-							"value" : 12000,
-							"creatures" : [ { "amount" : 6, "type" : "mdtTemplar" } ]
-						}
+						"creatures" : [ { "amount" : 6, "type" : "mdtTemplar" } ]
 					}
 				]
 			}
