@@ -47,7 +47,7 @@
 			"specialty" : {
 				"name" : "Succubi",
 				"description" : "Increases the Attack and Defense skills of any Succubi and Lilims for each level attained after 4th level. Additionally, Succubi and Lilims get a permanent +1 Speed bonus",
-				"tooltip" : "Creature bonus: Succubi"
+				"tooltip" : "Creature Bonus: Succubi"
 			}
 		}
 	}

@@ -47,7 +47,7 @@
 			"specialty" : {
 				"name" : "Illithids",
 				"description" : "Increases the Attack and Defense skills of any Illithids and Alhoons for each level attained after 5th level. Additionally, Illithids and Alhoons get a permanent +1 Speed bonus.",
-				"tooltip" : "Creature bonus: Illithid"
+				"tooltip" : "Creature Bonus: Illithids"
 			}
 		}
 	}

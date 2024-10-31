@@ -46,7 +46,7 @@
 			"specialty" : {
 				"name" : "Tritons",
 				"description" : "Increases the Attack and Defense skills of any Tritons and Abyssal Tritons for each level attained after 3rd level. Additionally, Tritons and Abyssal Tritons get a permanent +1 Speed bonus.",
-				"tooltip" : "{Creature bonus: Tritons}"
+				"tooltip" : "Creature Bonus: Tritons"
 			}
 		}
 	}
