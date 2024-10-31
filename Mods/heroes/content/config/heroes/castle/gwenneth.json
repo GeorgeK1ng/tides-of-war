@@ -54,7 +54,7 @@
 			"specialty" : {
 				"name" : "Air Shield",
 				"description" : "All ranged units have permament Air Shield.",
-				"tooltip" : "Bonus: Air Shield"
+				"tooltip" : "Passive Bonus: Air Shield"
 			}
 		}
 	}

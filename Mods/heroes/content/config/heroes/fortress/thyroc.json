@@ -46,7 +46,7 @@
 			"specialty" : {
 				"name" : "Hydras",
 				"description" : "Increases the speed of any Hydras or Chaos Hydras by 1 and their Attack and Defense skills by 5% for every 7 levels (rounded up).",
-				"tooltip" : "Creature bonus: Hydras"
+				"tooltip" : "Creature Bonus: Hydras"
 			}
 		}
 	}

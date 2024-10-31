@@ -58,7 +58,7 @@
 			"specialty" : {
 				"name" : "Templars",
 				"description" : "All Templars and Paladins always have positive morale.",
-				"tooltip" : "Creature bonus: Templars"
+				"tooltip" : "Creature Bonus: Templars"
 			}
 		}
 	}

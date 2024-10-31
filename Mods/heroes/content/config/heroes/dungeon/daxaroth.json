@@ -53,7 +53,7 @@
 			"specialty" : {
 				"name" : "Wide Breath",
 				"description" : "All Dragons gain Wide Breath ability.",
-				"tooltip" : "Creature bonus: Dragons"
+				"tooltip" : "Passive Bonus: Wide Breath"
 			}
 		}
 	}

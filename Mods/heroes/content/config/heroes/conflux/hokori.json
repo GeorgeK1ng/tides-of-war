@@ -53,7 +53,7 @@
 			"specialty" : {
 				"name" : "Aura of Power",
 				"description" : "Casts Aura of Power with increased effect, based on hero level compared to the level of the target unit.",
-				"tooltip" : "Bonus: Aura of Power"
+				"tooltip" : "Spell Bonus: Aura of Power"
 			}
 		}
 	}

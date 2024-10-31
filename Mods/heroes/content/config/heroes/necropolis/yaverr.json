@@ -47,7 +47,7 @@
 			"specialty" : {
 				"name" : "Werewolves",
 				"description" : "Increases the Attack and Defense skills of any Werewolves and Dire Werewolves for each level attained after 4th level. Additionally, Werewolves and Dire Werewolves get a permanent +1 Speed bonus",
-				"tooltip" : "Creature bonus: Werewolves"
+				"tooltip" : "Creature Bonus: Werewolves"
 			}
 		}
 	}

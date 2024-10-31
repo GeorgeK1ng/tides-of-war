@@ -47,7 +47,7 @@
 			"specialty" : {
 				"name" : "Medusas",
 				"description" : "Increases the Attack and Defense skills of any Medusas and Medusa Queens for each level attained after 4th level. Additionally, Medusas and Medusa Queens get a permanent +1 Speed bonus.",
-				"tooltip" : "Creature bonus: Medusa"
+				"tooltip" : "Creature Bonus: Medusas"
 			}
 		}
 	}

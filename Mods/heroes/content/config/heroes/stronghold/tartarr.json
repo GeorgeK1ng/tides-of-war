@@ -55,7 +55,7 @@
 			{
 				"name" : "Shield",
 				"description" : "Casts Shield with increased effect, based on hero level compared to the level of the target unit.",
-				"tooltip" : "Spell bonus: Shield"
+				"tooltip" : "Spell Bonus: Shield"
 			}
 		}
 	}
