@@ -49,7 +49,6 @@
 						[ "noneOf", [ "dwellingLvl3B" ] ]
 					]
 				},
-			
 				"dwellingLvl3B" :
 				{
 					"description" : "The Drowned Hall allows you to recruit Tritons.",
@@ -73,7 +72,8 @@
 					"description" : "The Drowned Hall allows you to recruit Abyssal Tritons.",
 					"name" : "Upg. Drowned Hall",
 					"id" : 53,
-					"cost" : {
+					"cost" :
+					{
 						"gold" : 2000,
 						"gems" : 3
 					},
