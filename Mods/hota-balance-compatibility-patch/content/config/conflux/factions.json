@@ -23,72 +23,7 @@
 				["earthElemental", "magmaElemental"],
 				["psychicElemental", "magicElemental"],
 				["firebird", "phoenix"]
-			],
-			"structures" :
-			{
-				"dwellingLvl3B" : {
-					"border" : "town-screen/conflux/buildings-border/ToBzT1.bmp",
-					"area" : "town-screen/conflux/buildings-area/TBzT1.bmp",
-					"animation" : "town-screen/conflux/TBzTrtn.def",
-					"x" : 700, "y" : 161, "z" : -1
-				},
-				"dwellingUpLvl3B" : {
-					"border" : "town-screen/conflux/buildings-border/ToBzT1Up.bmp",
-					"area" : "town-screen/conflux/buildings-area/TBzT1Up.bmp",
-					"animation" : "town-screen/conflux/TBzTrtUp.def",
-					"x" : 700, "y" : 161, "z" : -1
-				}
-			},
-			"buildings" :
-			{
-				"dwellingLvl3" :
-				{
-					"requires" : [
-						"allOf",
-						[ "dwellingLvl1" ],
-						[ "mageGuild1" ],
-						[ "noneOf", [ "dwellingLvl3B" ] ]
-					]
-				},
-				"dwellingLvl3B" :
-				{
-					"name" : "Drowned Hall",
-					"description" : "The Drowned Hall allows you to recruit Tritons.",
-					"cost" : 
-					{
-						"gold" : 2000,
-						"wood" : 5,
-						"ore" : 5
-					},
-					"requires" : [
-						"allOf",
-						[ "dwellingLvl1" ],
-						[ "mageGuild1" ],
-						[ "noneOf", [ "dwellingLvl3" ] ]
-					],
-					"id" : 46
-				},
-				"dwellingUpLvl3B" :
-				{
-					"name" : "Upg. Drowned Hall",
-					"description" : "The Drowned Hall allows you to recruit Abyssal Tritons.",
-					"cost" :
-					{
-						"gold" : 2000,
-						"gems" : 3
-					},
-					"upgrades" : "dwellingLvl3B",
-					"id" : 53
-				},
-				"dwellingLvl5" :
-				{
-					"requires" : [
-						"anyOf",
-						[ "dwellingLvl3" ],
-						[ "dwellingLvl3B" ]
-					]
-				}
-			}
+			]
 		}
 	}
 }
