@@ -1,12 +1,12 @@
 {
 	"name" : "Tides of War",
-	"description" : "In every nine standard H3 town, you have oppurtunity to build one dwelling for altenative creature.",
+	"description" : "In every nine standard H3 town, you have opportunity to build one dwelling for altenative creature.",
 	"modType" : "Expansion",
 	"author" : "Mod Design Team (Witchking, Hobbicus, Trith, Sower, Drwal, Khemiel, avatar, Nephretes), fred79, Andruids, Undead Artist, Ragoon, MURArt, Kuririn",
 	"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.0.30",
+	"version" : "1.0.31",
 	"downloadSize" : 28.4,
 	"compatibility" :
 	{
@@ -14,6 +14,7 @@
 	},
 	"changelog" :
 	{
+		"1.0.31"   : [ "Added Ukrainian translation" ],
 		"1.0.30"   : [ "Update banks code to vcmi-1.6 format" ],
 		"1.0.24"   : [ "Unicorn Glade fix" ],
 		"1.0.23"   : [ "Updated chinese translation" ],
@@ -68,6 +69,14 @@
 		"description" : "В каждом из девяти стандартных городов H3 у вас есть возможность построить одно жилище для альтернативного существа.",	
 		"translations" : [
 			"translation/tow/russian.json"
+		]
+	},
+	"ukrainian" :
+	{
+		"name" : "Хвилі війни / Tides of War",
+		"description" : "У кожному з дев'яти стандартних міст Героїв 3 ви отримуєте можливість побудувати житло для однієї альтенативної істоти.",
+		"translations" : [
+			"translation/tow/ukrainian.json"
 		]
 	},
 	"spanish" :
