@@ -23,5 +23,9 @@
 		{
 			"startingDwellingChances": [ 100, 100 ] 
 		}
+	},
+	"czech" : {
+		"name" : "Méně náhodný start",
+		"description" : "Hrdinové s počáteční armádou vždy mají všechny jednotky a bojový stroj, bez možnosti, že by některá z nich chyběla. Města s tvrzí mají vždy automaticky postavené obydlí pro jednotky 2. úrovně."
 	}
 }

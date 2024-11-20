@@ -21,5 +21,9 @@
 		"config/banks/outpostOfSouls",
 		"config/banks/bonePillar",
 		"config/banks/phantomShip"
-	]
+	],
+	"czech" : {
+		"name" : "Zásobárny",
+		"description" : "Nové zásobárny jako je Seminárium, Hrad čarodějnice a další."
+	}
 }

@@ -19,5 +19,13 @@
 	"factions" :
 	[
 		"config/conflux/factions"
-	]
+	],
+	"czech" :
+	{
+		"name": "Kompatibilita",
+		"description": "Kompatibilní nastavení pro Horn of the Abyss",
+		"translations" : [
+			"translation/hota-balance-compatibility-patch/czech.json"
+		]
+	}
 }

@@ -28,5 +28,9 @@
 		"config/spells/summonDemilich/summonDemilich2",
 		"config/spells/summonDemilich/summonDemilich3",
 		"config/spells/summonDemilich/summonDemilich4"
-	]
+	],
+	"czech" : {
+		"name" : "Kouzla",
+		"description" : "Nové kouzla jako je aura moci, vzplanutí, vampírismus a další."
+	}
 }

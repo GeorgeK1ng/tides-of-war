@@ -15,5 +15,9 @@
 	"skills" : [
 		"config/skills/hexes",
 		"config/skills/intimidation"
-	]
+	],
+	"czech" : {
+		"name" : "Schopnosti",
+		"description" : "Nové schopnosti Prokletí a Zastrašení."
+	}
 }
