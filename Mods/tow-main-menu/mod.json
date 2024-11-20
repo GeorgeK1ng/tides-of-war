@@ -19,5 +19,9 @@
 	{
 		"name" : "Tides of War - Menü",
 		"description" : "Tides of War - Menü-Ersatz"
+	},
+	"czech" : {
+		"name" : "Hlavní menu",
+		"description" : "Nový vzhled hlavního menu na motivy Tides of War"
 	}
 }

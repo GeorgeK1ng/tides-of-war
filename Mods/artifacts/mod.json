@@ -26,5 +26,9 @@
 		"config/artifacts/shieldOfTheAncients/shieldOfTheAncients",
 		"config/artifacts/binoculars/binoculars",
 		"config/artifacts/thirdEye/thirdEye"
-	]
+	],
+	"czech" : {
+		"name" : "Artefakty",
+		"description" : "Nové artefakty jako je třetí oko, štít předků a další."
+	}
 }

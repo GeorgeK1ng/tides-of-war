@@ -22,5 +22,9 @@
 	"objects" :
 	[
 		"config/dwellings/neutral/dwellings"
-	]
+	],
+	"czech" : {
+		"name" : "Neutrální jednotky",
+		"description" : "Nové neutrální jednotky jako jsou děsivý kapitáni, demilochové a další."
+	}
 }
