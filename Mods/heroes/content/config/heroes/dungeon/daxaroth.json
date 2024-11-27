@@ -3,7 +3,7 @@
 	{
 		"class" : "overlord",
 		"female" : false,
-		"special" : true,
+		"special" : false,
 		"images" : {
 			"specialtySmall" : "heroes/dungeon/daxaroth_spec-small",
 			"specialtyLarge" : "heroes/dungeon/daxaroth_spec-large",
