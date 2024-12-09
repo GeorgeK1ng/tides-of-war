@@ -6,7 +6,7 @@
 	"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.0.33",
+	"version" : "1.0.34",
 	"downloadSize" : 28.4,
 	"compatibility" :
 	{
@@ -14,7 +14,8 @@
 	},
 	"changelog" :
 	{
-		"1.0.33"   : [ "Minor fixes", "Added Alternate / Improved townscreens depencies" ],
+		"1.0.34"   : [ "Minor fixes", "Added Alternate / Improved townscreens depencies", "Fixes for Transformation altar submod" ],
+		"1.0.33"   : [ "Transformation Altar added as a submod" ],
 		"1.0.32"   : [ "Czech translation by George King" ],
 		"1.0.31"   : [ "Added Ukrainian translation" ],
 		"1.0.30"   : [ "Update banks code to vcmi-1.6 format" ],
