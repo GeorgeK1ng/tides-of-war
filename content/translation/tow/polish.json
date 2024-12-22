@@ -307,22 +307,14 @@
     "spell.tides-of-war.spells.summonGhost.name": "Przywołanie Ducha",
     "spell.tides-of-war.spells.symbiosis.name": "Symbioza z Drzewami",
     "spell.tides-of-war.spells.symbiosis2.name": "Symbioza z Drzewami",
-	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.0" : "
-Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
-	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.1" : "
-Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
-	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.2" : "
-Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
-	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.3" : "
-Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
-	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.4" : "
-Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
-	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.5" : "
-Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
-	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.6" : "
-Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
-	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.7" : "
-Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
+	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.0" : "Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
+	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.1" : "Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
+	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.2" : "Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
+	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.3" : "Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
+	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.4" : "Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
+	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.5" : "Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
+	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.6" : "Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
+	"mapObject.tides-of-war.banks.creatureBank.mdtBonePillar.rewards.7" : "Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się nowe Duchy, zobowiązane służyć Twojemu rozkazowi.",
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankLand.onVisited" : "Upon defeating the Dread Skippers, you spend several hours sifting through the debris and find nothing",
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankLand.rewards.0" : "Straszliwi Kapitanowie zostali pochowani, a z cieni widmowego statku wyłaniają się nowi sojusznicy, którzy przyłączają się do Twojej sprawy.",
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankLand.rewards.1" : "Straszliwi Kapitanowie zostali pochowani, a z cieni widmowego statku wyłaniają się nowi sojusznicy, którzy przyłączają się do Twojej sprawy.",
@@ -333,8 +325,7 @@ Niespokojne duchy zostają pokonane, a z Kościanego Filaru wyłaniają się now
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankLand.rewards.6" : "Straszliwi Kapitanowie zostali pochowani, a z cieni widmowego statku wyłaniają się nowi sojusznicy, którzy przyłączają się do Twojej sprawy.",
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankLand.rewards.7" : "Straszliwi Kapitanowie zostali pochowani, a z cieni widmowego statku wyłaniają się nowi sojusznicy, którzy przyłączają się do Twojej sprawy.",
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankWater.name" : "Widmowy Statek",
-	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankWater.onVisited" : "
-Po pokonaniu Straszliwych Kapitanów spędzasz kilka godzin na przeszukiwaniu gruzów i niczego nie znajdujesz",
+	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankWater.onVisited" : "Po pokonaniu Straszliwych Kapitanów spędzasz kilka godzin na przeszukiwaniu gruzów i niczego nie znajdujesz",
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankWater.rewards.0" : "Straszliwi Kapitanowie zostali pochowani, a z cieni widmowego statku wyłaniają się nowi sojusznicy, którzy przyłączają się do Twojej sprawy.",
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankWater.rewards.1" : "Straszliwi Kapitanowie zostali pochowani, a z cieni widmowego statku wyłaniają się nowi sojusznicy, którzy przyłączają się do Twojej sprawy.",
 	"mapObject.tides-of-war.banks.creatureBank.mdtDreadSkipperBankWater.rewards.2" : "Straszliwi Kapitanowie zostali pochowani, a z cieni widmowego statku wyłaniają się nowi sojusznicy, którzy przyłączają się do Twojej sprawy.",
@@ -360,14 +351,10 @@ Po pokonaniu Straszliwych Kapitanów spędzasz kilka godzin na przeszukiwaniu gr
 	"mapObject.tides-of-war.banks.creatureBank.sorceressCastle.rewards.4" : "Po pokonaniu Strażników Zamku Czarodziejki przeszukujesz gruz i znajdujesz coś.",
 	"mapObject.tides-of-war.banks.creatureBank.sorceressCastle.rewards.5" : "Po pokonaniu Strażników Zamku Czarodziejki przeszukujesz gruz i znajdujesz coś.",
 	"mapObject.tides-of-war.neutral-creatures.creatureGeneratorCommon.mdtCoralReef.name" : "Rafa Koralowa",
-	"spell.tides-of-war.alternative-creatures.mdtHateSpike.description.advanced" : "{Piekielne Kolce}\r\n\r\n
-Tworzy piekielne korzenie, które ranią wybraną jednostkę.",
-	"spell.tides-of-war.alternative-creatures.mdtHateSpike.description.basic" : "{Piekielne Kolce}\r\n\r\n
-Tworzy piekielne korzenie, które ranią wybraną jednostkę.",
-	"spell.tides-of-war.alternative-creatures.mdtHateSpike.description.expert" : "{Piekielne Kolce}\r\n\r\n
-Tworzy piekielne korzenie, które ranią wybraną jednostkę.",
-	"spell.tides-of-war.alternative-creatures.mdtHateSpike.description.none" : "{Piekielne Kolce}\r\n\r\n
-Tworzy piekielne korzenie, które ranią wybraną jednostkę.",
+	"spell.tides-of-war.alternative-creatures.mdtHateSpike.description.advanced" : "{Piekielne Kolce}\r\n\r\nTworzy piekielne korzenie, które ranią wybraną jednostkę.",
+	"spell.tides-of-war.alternative-creatures.mdtHateSpike.description.basic" : "{Piekielne Kolce}\r\n\r\nTworzy piekielne korzenie, które ranią wybraną jednostkę.",
+	"spell.tides-of-war.alternative-creatures.mdtHateSpike.description.expert" : "{Piekielne Kolce}\r\n\r\nTworzy piekielne korzenie, które ranią wybraną jednostkę.",
+	"spell.tides-of-war.alternative-creatures.mdtHateSpike.description.none" : "{Piekielne Kolce}\r\n\r\nTworzy piekielne korzenie, które ranią wybraną jednostkę.",
 	"spell.tides-of-war.alternative-creatures.mdtHateSpike.name" : "Piekielne Kolce",
 	"spell.tides-of-war.alternative-creatures.mdtRage.name" : "Wściekłość",
 	"spell.tides-of-war.alternative-creatures.mdtTrawl.name" : "Włók"
